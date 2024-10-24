@@ -1,0 +1,16 @@
+.section-container {
+    padding: 100px 20% 100px 20%;
+    flex: 1;
+  }
+  
+  .title-button-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .cards-container {
+    display: flex;
+    justify-content: space-around;
+  }

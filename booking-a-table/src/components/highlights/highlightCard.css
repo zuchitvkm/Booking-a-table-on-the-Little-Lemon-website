@@ -1,0 +1,49 @@
+.card {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: center;
+  width: 30%;
+}
+
+.card img {
+  width: 100%;
+}
+
+.card-text {
+  padding-top: 10px;
+  text-align: left;
+}
+
+.food-info {
+  display: flex;
+  justify-content: space-between;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.food-name {
+  font-size: 1.2em;
+}
+
+.food-price {
+  color: #333;
+}
+
+.description {
+  margin-bottom: 10px;
+  color: #555;
+}
+
+.order-button {
+  background-color: #F4CE14;
+  color: #333;
+  padding: 8px 12px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  border-radius: 5px;
+}
+
+.order-button:hover {
+  background-color: #0056b3;
+}
